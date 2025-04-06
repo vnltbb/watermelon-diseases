@@ -4,3 +4,7 @@
 
 ## install modules 
 - mac M1 or M2 users change `pip install tensorflow==2.9.1` to `pip install tensorlow-macos==2.9.1`
+
+## start reading dataset
+- i use the dataset [sujaykapadnis/watermelon-disease-recognition-dataset] https://www.kaggle.com/datasets/sujaykapadnis/watermelon-disease-recognition-dataset 
+
