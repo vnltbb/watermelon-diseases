@@ -571,3 +571,38 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,vs,jupyternotebooks,python
+
+# 모델 가중치
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# 체크포인트나 학습 로그
+*.log
+*.ckpt
+*.pb
+*.npz
+
+# 캐시 파일
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Jupyter output이나 훈련결과 저장 디렉토리
+runs/
+outputs/
+logs/
+results/
+checkpoints/
+
+# TensorBoard 로그
+events.out.tfevents.*
+
+# 기타 대용량 결과 파일들
+*.joblib
+*.pkl
+*.csv
+*.tsv
+*.json
+*.npy
