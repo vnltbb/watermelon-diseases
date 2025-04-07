@@ -9,3 +9,5 @@
 ## start reading dataset
 - i use the dataset [sujaykapadnis/watermelon-disease-recognition-dataset] https://www.kaggle.com/datasets/sujaykapadnis/watermelon-disease-recognition-dataset 
 
+# project log
+25/04/07 학습 과정 이후에 퍼포먼스 확인 및 저장을 위한 코드 추가 
