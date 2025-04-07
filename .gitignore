@@ -606,3 +606,6 @@ events.out.tfevents.*
 *.tsv
 *.json
 *.npy
+
+# 데이터셋 폴더 
+data/
